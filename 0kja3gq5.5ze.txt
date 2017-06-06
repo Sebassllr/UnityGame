@@ -1,0 +1,25 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ProjectSettings/AudioManager.asset
+#	new file:   ProjectSettings/ClusterInputManager.asset
+#	new file:   ProjectSettings/DynamicsManager.asset
+#	new file:   ProjectSettings/EditorBuildSettings.asset
+#	new file:   ProjectSettings/EditorSettings.asset
+#	new file:   ProjectSettings/GraphicsSettings.asset
+#	new file:   ProjectSettings/InputManager.asset
+#	new file:   ProjectSettings/NavMeshAreas.asset
+#	new file:   ProjectSettings/NetworkManager.asset
+#	new file:   ProjectSettings/Physics2DSettings.asset
+#	new file:   ProjectSettings/ProjectSettings.asset
+#	new file:   ProjectSettings/ProjectVersion.txt
+#	new file:   ProjectSettings/QualitySettings.asset
+#	new file:   ProjectSettings/TagManager.asset
+#	new file:   ProjectSettings/TimeManager.asset
+#	new file:   ProjectSettings/UnityConnectSettings.asset
+#
+
